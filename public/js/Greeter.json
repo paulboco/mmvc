@@ -1,0 +1,24 @@
+[
+    {},
+    {
+        "id": 1,
+        "name": "Rowdy Johnson",
+        "salutation": "Howdy",
+        "endearment": "Partner",
+        "greeting": "How are you doing?"
+    },
+    {
+        "id": 2,
+        "name": "Petunia Arbuckle",
+        "salutation": "Hello",
+        "endearment": "Honey",
+        "greeting": "My name is Petunia."
+    },
+    {
+        "id": 2,
+        "name": "Boc Kronan",
+        "salutation": "Hey",
+        "endearment": "Pal",
+        "greeting": "If there's nothing else, I'm outta here."
+    }
+]
